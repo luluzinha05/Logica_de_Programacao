@@ -6,7 +6,7 @@
 
 ## Bem-vindos, Grupo 6!
 
-Criei este repositório centralizar e versionar os algoritmos desenvolvidos pelo **Grupo 6** como parte do Trabalho Final da disciplina de **Lógica de Programação** do programa **Serretec Residência de Software**.
+Criei este repositório com o intuito de centralizar e versionar os algoritmos desenvolvidos pelo **Grupo 6** como parte do Trabalho Final da disciplina de **Lógica de Programação** do programa **Serretec Residência de Software**.
 
 Aqui nois iremos submeter as soluções dos desafios propostos, escritos na linguagem de aprendizado **Portugol**, praticando conceitos fundamentais da lógica computacional.
 
@@ -29,7 +29,7 @@ O trabalho final dessa disciplina consiste na resolução de **7 questões** sel
 algoritmos-Portugol/
 │
 ├── questao-XX/
-│   ├── solucao.por         # Código em Portugol
+│   └── solucao.por         # Código em Portugol
 │
 └── README.md               
 ```
