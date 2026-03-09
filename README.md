@@ -26,7 +26,7 @@ O trabalho final dessa disciplina consiste na resolução de **7 questões** sel
 ##  Estrutura do Repositório
 
 ```
-algoritmos-Portugol/
+Logica_de_Programacao/
 │
 ├── questao-XX/
 │   └── solucao.por         # Código em Portugol
