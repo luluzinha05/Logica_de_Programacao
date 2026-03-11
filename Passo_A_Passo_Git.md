@@ -25,15 +25,42 @@ O processo básico consiste em:
 ---
 
 ## Passo a Passo
-
 ### 1️⃣ Entrar na sua branch
-
 ```bash
-git checkout nome-do-integrante
+git checkout -b nome-do-integrante
+```
+
+### 3️⃣ Adicionar os arquivos modificados
+```bash
 git add .
+```
+
+### 3️⃣ Fazer o commit
+```bash
 git commit -m "mensagem"
+```
+
+### 4️⃣ Enviar sua branch para o GitHub
+```bash
 git push origin nome-do-integrante
+```
+
+### 5️⃣ Trocar para a branch principal
+```bash
 git checkout main
+```
+
+### 6️⃣ Atualizar a main
+```bash
 git pull origin main
+```
+
+### 7️⃣ Mesclar sua branch com a main
+```bash
 git merge nome-do-integrante
+```
+
+### 8️⃣ Enviar a main atualizada
+```bash
 git push origin main
+```
