@@ -19,7 +19,7 @@ Aqui nois iremos submeter as soluções dos desafios propostos, escritos na ling
 - KAIQUE ABRANCHES DE PAULA
 - LAÍS FERRARI DO AMARAL
 - LUIZA AUGUSTO TAVARES
-- PATRICK VINICIUS COELHO LIMA 
+- PATRICK VINICIUS COELHO LIMA
 
 ## O Trabalho
 
