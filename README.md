@@ -8,18 +8,18 @@
 
 Criei este repositório com o intuito de centralizar e versionar os algoritmos desenvolvidos pelo **Grupo 6** como parte do Trabalho Final da disciplina de **Lógica de Programação** do programa **Serretec Residência de Software**.
 
-Aqui nois iremos submeter as soluções dos desafios propostos, escritos na linguagem de aprendizado **Portugol**, praticando conceitos fundamentais da lógica computacional.
+Aqui nós iremos submeter as soluções dos desafios propostos, escritos na linguagem de aprendizado **Portugol**, praticando conceitos fundamentais da lógica computacional.
 
 ---
 
-## O Trabalho
-- ESTHER MEDEIROS DIAS THAISS
-- GABRIEL LUIZ DA SILVA DE AGUIAR
-- GABRIEL MENDONÇA DOS SANTOS MENEZES
-- KAIQUE ABRANCHES DE PAULA
-- LAÍS FERRARI DO AMARAL
-- LUIZA AUGUSTO TAVARES
-- PATRICK VINICIUS COELHO LIMA
+## Integrantes e Divisão das Questões
+- ESTHER MEDEIROS DIAS THAISS: 4, 9 e 17
+- GABRIEL LUIZ DA SILVA DE AGUIAR: 1, 13 e 20
+- GABRIEL MENDONÇA DOS SANTOS MENEZES: 6, 11 e 21
+- KAIQUE ABRANCHES DE PAULA: 3, 15 e 18
+- LAÍS FERRARI DO AMARAL: 2, 7 e 16
+- LUIZA AUGUSTO TAVARES: 5, 12 e 19
+- PATRICK VINICIUS COELHO LIMA: 8, 10 e 14
 
 ## O Trabalho
 
