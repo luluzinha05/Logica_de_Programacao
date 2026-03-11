@@ -19,7 +19,7 @@ O trabalho final dessa disciplina consiste na resolução de **7 questões** sel
 -  Declaração de variáveis
 -  Entrada e saída de dados
 -  Estruturação correta do código
--  Comentários explicando a lógica adotada
+-  Comentários explicando a lógica adotad a
 
 ---
 
