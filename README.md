@@ -12,7 +12,8 @@ Aqui nois iremos submeter as soluções dos desafios propostos, escritos na ling
 
 ---
 
-## O Trabalho
+## Integrantes
+
 - ESTHER MEDEIROS DIAS THAISS
 - GABRIEL LUIZ DA SILVA DE AGUIAR
 - GABRIEL MENDONÇA DOS SANTOS MENEZES
@@ -20,7 +21,6 @@ Aqui nois iremos submeter as soluções dos desafios propostos, escritos na ling
 - LAÍS FERRARI DO AMARAL
 - LUIZA AUGUSTO TAVARES
 - PATRICK VINICIUS COELHO LIMA 
-- oioi
 
 ## O Trabalho
 
