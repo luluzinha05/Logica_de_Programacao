@@ -8,14 +8,12 @@ programa {
     }
   }
 
-
   funcao inicio() {
     inteiro numero
    
     escreva("Informe um número: ")
     leia(numero)
     limpa()
-
 
     //Chamada da função, passando o "numero" lido como parâmetro
     escreva("O fatorial de ", numero, " é: ", fatorial(numero))
