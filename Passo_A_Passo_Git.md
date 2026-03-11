@@ -1,4 +1,4 @@
-# 🌿 Guia de Contribuição – Branch
+# Guia de Contribuição – Branch
 
 > **Serretec Residência de Software · Sala 34 · Lógica de Programação**
 
