@@ -25,7 +25,8 @@ O processo básico consiste em:
 ---
 
 ## Passo a Passo
-### 1️⃣ Entrar na sua branch
+### 1️⃣ Entrar na sua branch/cria
+### OBS: para entrar em uma branch já criada, somente remover o '-b'
 ```bash
 git checkout -b nome-do-integrante
 ```
