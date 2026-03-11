@@ -31,7 +31,7 @@ git checkout -b nome-do-integrante
 ```
 Obs: Para entrar em uma branch já criada, somente remover o '-b'
 
-### 3️⃣ Adicionar os arquivos modificados
+### 2️⃣ Adicionar os arquivos modificados
 ```bash
 git add .
 ```
