@@ -13,13 +13,22 @@ Aqui nois iremos submeter as soluções dos desafios propostos, escritos na ling
 ---
 
 ## O Trabalho
+- ESTHER MEDEIROS DIAS THAISS
+- GABRIEL LUIZ DA SILVA DE AGUIAR
+- GABRIEL MENDONÇA DOS SANTOS MENEZES
+- KAIQUE ABRANCHES DE PAULA
+- LAÍS FERRARI DO AMARAL
+- LUIZA AUGUSTO TAVARES
+- PATRICK VINICIUS COELHO LIMA 
+
+## O Trabalho
 
 O trabalho final dessa disciplina consiste na resolução de **7 questões** selecionadas de uma lista de desafios. Cada algoritmo deve ser escrito em **Portugol** e deve incluir:
 
 -  Declaração de variáveis
 -  Entrada e saída de dados
 -  Estruturação correta do código
--  Comentários explicando a lógica adotad a
+-  Comentários explicando a lógica adotada
 
 ---
 
