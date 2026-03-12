@@ -18,8 +18,7 @@ programa {
             maiorValor = matriz[linha][coluna]
           }
       }
-    }
-    
+    } 
     limpa()
     //Mostrando toda a matriz para o usuário.
     para(linha = 0; linha <4; linha++) {
@@ -28,7 +27,6 @@ programa {
       }
       escreva("\n")
     }
-
     //Mostrando o maior e o menor valor dentro da matriz.
     escreva("O maior valor da matriz é o: ", maiorValor)
     escreva("\nO menor valor da matriz é o: ", menorValor)
