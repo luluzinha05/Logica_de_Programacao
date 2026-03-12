@@ -37,8 +37,8 @@ O trabalho final dessa disciplina consiste na resolução de **7 questões** sel
 ```
 Logica_de_Programacao/
 │
-├── questao-XX/
-│   └── solucao.por         # Código em Portugol
+├── nome-do-integrante/
+│   └── questao.por        # Código em Portugol
 │
 └── README.md               
 ```
