@@ -1,6 +1,6 @@
 programa {
 
-  //Função para mostrar os divisiveis
+  //Função para mostrar os divisíveis 
   funcao vazio divisivel(inteiro num) {
     para(inteiro i = 1; i <=num; i++) {
 
