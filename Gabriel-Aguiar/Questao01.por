@@ -2,14 +2,18 @@ programa {
 
   //Função para mostrar os divisíveis 
   funcao vazio divisivel(inteiro num) {
-    para(inteiro i = 1; i <=num; i++) {
 
-        //Se o resto da divisão pelo número for 0 ele é divisível
+    //O maior divisor de um número além dele mesmo é sempre sua metade
+    //Interrompe o laço na metade do número para maior performance do programa
+    para(inteiro i = 1; i <= num/2; i++) {
+
+        //Se o resto da divisão pelo número for 0 ele é divisor
         se(num % i == 0) {
-          escreva("O número: " ,i, " é divisível por " ,num,"\n")
+          escreva("O número: " ,i, " é divisor de " ,num,"\n")
 
         }
       }
+      escreva("O número: " ,num, " é divisor de " ,num,"\n")
   }
 
   funcao inicio() {
