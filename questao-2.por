@@ -1,6 +1,7 @@
 /*Questão 2 - Contar vogais em uma frase
 · Descrição: Desenvolva um algoritmo que leia uma frase e conte quantas vogais ela possui. Considere usar bibliotecas.
-Discente: Laís Ferrari do Amaral */
+Discente: Laís Ferrari do Amaral 
+Alteração 01*/
 
 programa
 {
