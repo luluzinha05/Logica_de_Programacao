@@ -7,16 +7,18 @@ programa {
       escreva("Informe números positivos:\n")
       leia(n)
 
-      se(n == 0) {
+      se(n < 0) {
+        pare
+      } senao se(n == 0) {
         escreva("Número neutro, informe um número positivo.\n\n")
-        i-- //decrementa para remover o zero da contagem
+      } senao {
+        i++ //i = contador da quantidade de números positivos
       }
-     
-      i++ //i = contador da quantidade de vezes que o loop se repetiu
-    }enquanto(n >= 0)
+
+    }enquanto(verdadeiro)
 
     limpa()
 
-    escreva("Foram lidos ", i - 1, " números positivos!") //i - 1, porque o loop faz a leitura do valor negativo também
+    escreva("Foram lidos ", i, " números positivos!")
   }
 }
