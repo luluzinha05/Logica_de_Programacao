@@ -11,7 +11,7 @@ programa {
   funcao inicio() {
     inteiro numero
    
-    escreva("Informe um número: ")
+    escreva("Informe o número: ")
     leia(numero)
     limpa()
 

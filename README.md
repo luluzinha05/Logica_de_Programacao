@@ -38,7 +38,7 @@ O trabalho final dessa disciplina consiste na resolução de **7 questões** sel
 Logica_de_Programacao/
 │
 ├── nome-do-integrante/
-│   └── questao.por        # Código em Portugol
+│   └── questaoXX.por        # Código em Portugol
 │
 └── README.md               
 ```
@@ -56,7 +56,7 @@ Logica_de_Programacao/
 
 2. **Crie uma branch com seu nome ou número da questão:**
    ```bash
-   git checkout -b questao-01/nome-do-integrante
+   git checkout -b nome-do-integrante
    ```
 
 3. **Adicione seu código na pasta correspondente.**
@@ -69,7 +69,7 @@ Logica_de_Programacao/
 
 5. **Envie para o repositório remoto:**
    ```bash
-   git push origin questao-01/nome-do-integrante
+   git push origin nome-do-integrante
    ```
 
 ---
