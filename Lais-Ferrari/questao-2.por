@@ -1,11 +1,12 @@
 /*Questão 2 - Contar vogais em uma frase
 · Descrição: Desenvolva um algoritmo que leia uma frase e conte quantas vogais ela possui. Considere usar bibliotecas.
-Discente: Laís Ferrari do Amaral */
+Discente: Laís Ferrari do Amaral 
+Alteração 01*/
 
 programa
 {
 //inclusão da biblioteca de textos
-inclua biblioteca Texto
+inclua biblioteca Texto 
 funcao inicio()
 {
 cadeia frase
@@ -20,10 +21,10 @@ inteiro i
 
 //foi escolhido o "para" pois vamos lidar com loops com contagem e verificar letra por letra da frase
 //o "numero_caracter" conta o número de caracteres existentes em uma cadeia
-    para(i = 0; i < texto.numero_caracteres(frase); i++)
+    para(i = 0; i < Texto.numero_caracteres(frase); i++)
 {
 //o "extrair_subtexto" extrai uma parte da cadeia delimitada pela posição inicial e final
-letra = texto.extrair_subtexto(frase, i, i++)
+letra = Texto.extrair_subtexto(frase, i, i + 1)
 
 
 //utilizamos o "se" para identificar as vogais
@@ -37,3 +38,4 @@ contador = contador + 1
 escreva("A quantidade de vogais na frase é: ", contador)
 }
 }
+
